@@ -1,0 +1,1 @@
+console.log (' “I do not know anyone who has got to the top without hard work!  “Learning is the only thing the mind never exhausts, never fears, and never regrets.” – Leonardo da Vinci,')
